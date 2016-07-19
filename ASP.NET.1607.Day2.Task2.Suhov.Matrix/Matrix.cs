@@ -20,7 +20,7 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
     /// </summary>
         public int[][] GetMatrix { get { return _matrix; } }
     /// <summary>
-    /// Return jagged array as string
+    /// Return jagged array as a string
     /// </summary>
         public string GetMatrixString { get { return GetOutputStringArray(); } }
         public Matrix() { }
