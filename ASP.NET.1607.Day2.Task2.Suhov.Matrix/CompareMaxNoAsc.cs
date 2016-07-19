@@ -13,8 +13,13 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
         private int _iy;
         // maintain a reference to the 2-dimensional array being sorted
         private int[][] sortArray;
-        // constructor initializes the sortArray reference
+    /// <summary> 
+    /// Default constructor, initialize variables with default values 
+    /// </summary> 
         public CompareMaxNoAsc() { }
+    /// <summary> 
+    /// Constructor with parameters, initialize variables with the parameters value 
+    /// </summary> 
         public CompareMaxNoAsc(int[][] theArray)
         {
             sortArray = theArray;
