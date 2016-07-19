@@ -9,11 +9,19 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
 {
     public class Matrix
     {
+        #region Private fields
         private int _rowNum;
         private int _colNum;
         private int[][] _matrix;
         private int[] _matrixSubArray;
+        #endregion
+    /// <summary>
+    /// Returns jagged array with matrix inside
+    /// </summary>
         public int[][] GetMatrix { get { return _matrix; } }
+    /// <summary>
+    /// Returns jagged array as string
+    /// </summary>
         public string GetMatrixString { get { return GetOutputStringArray(); } }
         public Matrix() { }
         public Matrix(int rowNum, int colNum)
@@ -23,6 +31,9 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
             FillMatrix();
             FillSubArray();
         }
+    /// <summary>
+    /// Sorts matrix with required comparison
+    /// </summary>
         public void Sort(IComparer comparison)
         {
             Array.Sort(_matrixSubArray, comparison);
