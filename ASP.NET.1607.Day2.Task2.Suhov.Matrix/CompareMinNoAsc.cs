@@ -19,6 +19,9 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
         {
             sortArray = theArray;
         }
+    /// <summary>
+    /// Compare two Min values in jagged array in different rows
+    /// </summary>
         public int Compare(object x, object y)
         {
             if (x == null || y == null || !(x is int) || !(y is int)) throw new ArgumentException(String.Format("{0}, {1} is not an int values", x, y));
