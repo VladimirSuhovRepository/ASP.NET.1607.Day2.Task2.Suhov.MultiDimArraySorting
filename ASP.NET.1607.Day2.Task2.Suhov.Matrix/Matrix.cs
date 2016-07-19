@@ -42,6 +42,7 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
                 _matrix[i] = _matrix[_matrixSubArray[i]];
             }
         }
+        #region Private methods
         private void FillSubArray()
         {
             _matrixSubArray = new int[_rowNum];
@@ -77,7 +78,7 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
             }
             return result.ToString();
         }
-        
+        #endregion
 
     }
 
