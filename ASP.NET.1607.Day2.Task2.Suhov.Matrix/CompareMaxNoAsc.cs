@@ -31,8 +31,8 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
         {
             if (x == null || y == null || !(x is int) || !(y is int)) throw new ArgumentException(String.Format("{0}, {1} is not an int values", x, y));
             if (sortArray[_ix] == null) throw new ArgumentException(String.Format("{0} has no values inside, please run constructor with parameters", sortArray[_ix]));
-            _ix = (int)x;
-            _iy = (int)y;
+                _ix = (int)x;
+                _iy = (int)y;
             if (sortArray[_ix].Max() >= sortArray[_iy].Max())
                 return 1;
             else
