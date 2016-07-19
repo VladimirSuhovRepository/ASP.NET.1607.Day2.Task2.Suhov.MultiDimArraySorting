@@ -23,7 +23,13 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
     /// Return jagged array as a string
     /// </summary>
         public string GetMatrixString { get { return GetOutputStringArray(); } }
+    /// <summary>
+    /// Default constructor, initialize variables with default values
+    /// </summary>
         public Matrix() { }
+    /// <summary>
+    /// Constructor with parameters, initialize variables with the parameters value
+    /// </summary>
         public Matrix(int rowNum, int colNum)
         {
             _rowNum = rowNum;
