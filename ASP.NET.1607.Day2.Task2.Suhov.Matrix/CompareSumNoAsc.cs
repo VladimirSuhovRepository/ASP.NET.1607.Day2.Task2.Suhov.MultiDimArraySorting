@@ -17,9 +17,9 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
     /// Default constructor, initialize variables with default values 
     /// </summary> 
         public CompareSumNoAsc() { }
-     /// <summary> 
-     /// Constructor with parameters, initialize variables with the parameters value 
-     /// </summary> 
+    /// <summary> 
+    /// Constructor with parameters, initialize variables with the parameters value 
+    /// </summary> 
         public CompareSumNoAsc(int[][] theArray)
         {
             sortArray = theArray;
@@ -31,8 +31,8 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
         {
             if (x == null || y == null || !(x is int) || !(y is int)) throw new ArgumentException(String.Format("{0}, {1} is not an int values", x, y));
             if (sortArray[_ix] == null) throw new ArgumentException(String.Format("{0} has no values inside, please run constructor with parameters", sortArray[_ix]));
-            _ix = (int)x;
-            _iy = (int)y;
+                _ix = (int)x;
+                _iy = (int)y;
             if (sortArray[_ix].Sum() >= sortArray[_iy].Sum())
                 return 1;
             else
