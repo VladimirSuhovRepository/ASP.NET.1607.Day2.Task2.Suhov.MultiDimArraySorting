@@ -16,11 +16,11 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
         private int[] _matrixSubArray;
         #endregion
     /// <summary>
-    /// Returns jagged array with matrix inside
+    /// Return jagged array with matrix inside
     /// </summary>
         public int[][] GetMatrix { get { return _matrix; } }
     /// <summary>
-    /// Returns jagged array as string
+    /// Return jagged array as string
     /// </summary>
         public string GetMatrixString { get { return GetOutputStringArray(); } }
         public Matrix() { }
@@ -32,7 +32,7 @@ namespace ASP.NET._1607.Day2.Task2.Suhov.Matrix
             FillSubArray();
         }
     /// <summary>
-    /// Sorts matrix with required comparison
+    /// Sort matrix with required comparison
     /// </summary>
         public void Sort(IComparer comparison)
         {
