@@ -3,3 +3,8 @@ C:\Users\Administrator\Documents\test8\ASP.NET.1607.Day2.Task2.Suhov.Matrix\ASP.
 C:\Users\Administrator\Documents\test8\ASP.NET.1607.Day2.Task2.Suhov.Matrix\ASP.NET.1607.Day2.Task2.Suhov.Matrix\obj\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\test8\ASP.NET.1607.Day2.Task2.Suhov.Matrix\ASP.NET.1607.Day2.Task2.Suhov.Matrix\obj\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.dll
 C:\Users\Administrator\Documents\test8\ASP.NET.1607.Day2.Task2.Suhov.Matrix\ASP.NET.1607.Day2.Task2.Suhov.Matrix\obj\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.pdb
+C:\Users\Administrator\Documents\test10\ASP.NET.1607.Day2.Task2.Suhov.JaggedArraysSorting\ASP.NET.1607.Day2.Task2.Suhov.Matrix\bin\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.dll
+C:\Users\Administrator\Documents\test10\ASP.NET.1607.Day2.Task2.Suhov.JaggedArraysSorting\ASP.NET.1607.Day2.Task2.Suhov.Matrix\bin\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.pdb
+C:\Users\Administrator\Documents\test10\ASP.NET.1607.Day2.Task2.Suhov.JaggedArraysSorting\ASP.NET.1607.Day2.Task2.Suhov.Matrix\obj\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\test10\ASP.NET.1607.Day2.Task2.Suhov.JaggedArraysSorting\ASP.NET.1607.Day2.Task2.Suhov.Matrix\obj\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.dll
+C:\Users\Administrator\Documents\test10\ASP.NET.1607.Day2.Task2.Suhov.JaggedArraysSorting\ASP.NET.1607.Day2.Task2.Suhov.Matrix\obj\Debug\ASP.NET.1607.Day2.Task2.Suhov.Matrix.pdb
